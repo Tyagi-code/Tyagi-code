@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyagi-code
-- 👀 I’m interested in Python
+- I'm good at HTML5 , CSS3 , DBMS , SQL , Python
 - 🌱 I’m currently learning BTech in IT
 
 <!---
